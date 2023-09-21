@@ -19,3 +19,14 @@
 
 ![203marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=203marcos&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=203marcos&layout=compact)
+
+
+![snake gif](https://github.com/203marcos/203marcos/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
+
+
+
+
