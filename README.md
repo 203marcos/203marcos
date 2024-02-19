@@ -15,6 +15,11 @@
 - Fortaleza - Ce
 
 
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+
 [![Instragram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/goldmetaboy/)
 
 ![203marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=203marcos&show_icons=true&theme=white)
