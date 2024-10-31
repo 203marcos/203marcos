@@ -32,10 +32,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=203marcos&layout=compact)
 
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAd/koshi-torako-shikanoko.gif" width="100">
 
-
-
-
+</div>
 
 
 
