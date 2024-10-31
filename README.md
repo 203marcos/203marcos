@@ -2,22 +2,26 @@
 
 ### Hello there! Eu sou o Marcos Dias, vulgo 203marcos
 
-- 21 anos
+- 22 anos
 - Estudante de ciencia da computação
-- Focado em back-end atualmente
+- Focado em fullstack atualmente
 - Fortaleza - Ce
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 21 years
+- 22 years
 - Computer science student
-- Focused on back-end currently
+- Focused on fullstack currently
 - Fortaleza - Ce
 
 
 ## Learning
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
