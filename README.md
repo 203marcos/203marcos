@@ -34,7 +34,9 @@
 
 <div align="center">
   <img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAd/koshi-torako-shikanoko.gif" width="100">
-
+  <img src="https://media.tenor.com/ATGRQ30vEiQAAAAi/yuzuko-yuyushiki.gif" width="100">
+  <img src="https://media1.tenor.com/m/3yNUtUfO_mgAAAAC/cats-anime.gif" width="100">
+  <img src="https://media1.tenor.com/m/UU-WttRyvuAAAAAd/anime-kar%C4%B1s%C4%B1.gif" width="100">
 </div>
 
 
