@@ -17,12 +17,40 @@
 
 ## Learning
 
+### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,c,git,css,html,linux,react,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,c,css,html" />
   </a>
 </p>
 
+### Frameworks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express" />
+  </a>
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  </a>
+</p>
+
+### CI/CD
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
+### Others
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
 
 
 
