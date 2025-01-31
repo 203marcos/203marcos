@@ -1,11 +1,4 @@
-### Hello there! Eu sou o Marcos Dias, vulgo 203marcos
-
-- 22 anos
-- Estudante de ciência da computação
-- Focado em fullstack atualmente
-- Fortaleza - Ce
-
----
+### Hello there! I am Marcos Dias, aka 203marcos
 
 - 22 years
 - Computer science student
