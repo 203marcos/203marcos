@@ -45,8 +45,8 @@
 
 ## Contact
 
-- Email: marcosdias@example.com
-- LinkedIn: [Marcos Dias](https://www.linkedin.com/in/marcosdias)
+- Email: marcosaurelioce@hotmail.com
+- LinkedIn: [Marcos Dias](https://www.linkedin.com/in/marcosaadias/)
 - Instagram: [@goldmetaboy](https://www.instagram.com/goldmetaboy/)
 
 <p align="center">
@@ -54,12 +54,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=203marcos&layout=compact" alt="Top Langs">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=203marcos&theme=white" alt="GitHub Streak Stats">
-</p>
+
 
 ## Hobbies
 
 - Watching anime and playing video games.
 - Exploring new technologies and frameworks.
 - Reading about software engineering and best practices.
+
+<div align="center">
+  <img src="https://media.tenor.com/ATGRQ30vEiQAAAAi/yuzuko-yuyushiki.gif" width="150">
+  <img src="https://media1.tenor.com/m/yiaAYqLlJfoAAAAd/software-engineer-develop.gif" width="200">
+  <img src="https://media1.tenor.com/m/3yNUtUfO_mgAAAAC/cats-anime.gif" width="200">
+  <img src="https://media1.tenor.com/m/SEVhQzGoyksAAAAd/fbi-anime.gif" width="200" height="100">
+</div>
