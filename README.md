@@ -5,13 +5,6 @@
 - Focused on fullstack currently
 - Fortaleza - Ce
 
-## Projects
-
-### Public Declarations Project
-- A full-stack web application for creating, editing, and deleting public declarations.
-- Built with Node.js, Express.js, EJS, and MongoDB.
-- Deployed on [Vercel](https://blog-api-xi-sepia.vercel.app/) (frontend) and [Render](https://render.com/) (backend).
-- [Repository Link](https://github.com/203marcos/public-declarations)
 
 ## Learning
 
