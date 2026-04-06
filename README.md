@@ -25,101 +25,73 @@
 ## Backend Stack
 
 <p align="left">
-  # Marcos Dias | Java Backend Developer
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,maven,git,linux,postman" />
+  </a>
+</p>
 
-  <p>
-    Backend developer focused on building robust REST APIs with <b>Java + Spring Boot</b>.
-    <br>
-    Experience with system integrations, relational databases, Dockerized environments, and production-ready backend architecture.
-  </p>
+## Other Technologies
 
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=203marcos&label=Profile+views&color=0e75b6&style=flat" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=203marcos&label=Profile+views&color=0e75b6&style=flat" alt="profile views" />
-    </a>
-    <a href="https://github.com/203marcos?tab=followers" target="_blank">
-      <img src="https://img.shields.io/github/followers/203marcos?label=Followers&style=flat" alt="followers" />
-    </a>
-  </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,react,nextjs,html,css" />
+  </a>
+</p>
 
-  ## About Me
+## Highlights
 
-  - Based in Fortaleza, CE - Brazil.
-  - Computer Science student at UNIFOR.
-  - Internship experience in Full Stack Development (React/Next.js + APIs).
-  - Main focus today: Java backend, clean architecture, scalability, and best practices.
+- Built REST APIs with layered architecture, DTOs, validation, and exception handling.
+- Worked with JPA/Hibernate and relational database modeling (PostgreSQL/MySQL/Oracle).
+- Used Flyway migrations, Swagger/OpenAPI, Docker, and Docker Compose in projects.
+- Developed automated tests with JUnit 5 and Mockito.
+- Contributed in agile teams (Scrum/Kanban), code reviews, and third-party API integrations.
 
-  ## Backend Stack
+## Featured Projects
 
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,maven,git,linux,postman" />
-    </a>
-  </p>
+### DSCommerce - Backend E-commerce
+- Java 17 + Spring Boot.
+- CRUD APIs with pagination and validation.
+- Layered architecture and persistence with Spring Data JPA.
 
-  ## Other Technologies
+### User API - Production-Ready REST API
+- Spring Boot + PostgreSQL + Flyway.
+- Swagger documentation and automated tests.
+- Dockerized setup for cloud deployment.
 
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,py,react,nextjs,html,css" />
-    </a>
-  </p>
+## GitHub Metrics
 
-  ## Highlights
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=203marcos&locale=en&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
-  - Built REST APIs with layered architecture, DTOs, validation, and exception handling.
-  - Worked with JPA/Hibernate and relational database modeling (PostgreSQL/MySQL/Oracle).
-  - Used Flyway migrations, Swagger/OpenAPI, Docker, and Docker Compose in projects.
-  - Developed automated tests with JUnit 5 and Mockito.
-  - Contributed in agile teams (Scrum/Kanban), code reviews, and third-party API integrations.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=203marcos&theme=github" alt="Top Languages" />
+</p>
 
-  ## Featured Projects
+## Contact
 
-  ### DSCommerce - Backend E-commerce
-  - Java 17 + Spring Boot.
-  - CRUD APIs with pagination and validation.
-  - Layered architecture and persistence with Spring Data JPA.
+- Email: `marcosaurelioce@hotmail.com`
+- LinkedIn: [Marcos Dias](https://www.linkedin.com/in/marcosaadias/)
+- GitHub: [@203marcos](https://github.com/203marcos)
+- Instagram: [@goldmetaboy](https://www.instagram.com/goldmetaboy/)
 
-  ### User API - Production-Ready REST API
-  - Spring Boot + PostgreSQL + Flyway.
-  - Swagger documentation and automated tests.
-  - Dockerized setup for cloud deployment.
+## Resume
 
-  ## GitHub Metrics
+<p align="center">
+  <a href="docs/Marcos Dias Java Resume-1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=203marcos&locale=en&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </p>
+## Hobbies
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=203marcos&theme=github" alt="Top Languages" />
-  </p>
+- Watching anime and playing video games.
+- Exploring new technologies and frameworks.
+- Reading about software engineering and best practices.
 
-  ## Contact
-
-  - Email: `marcosaurelioce@hotmail.com`
-  - LinkedIn: [Marcos Dias](https://www.linkedin.com/in/marcosaadias/)
-  - GitHub: [@203marcos](https://github.com/203marcos)
-  - Instagram: [@goldmetaboy](https://www.instagram.com/goldmetaboy/)
-
-  ## Resume
-
-  You can view or download my resume (PDF) stored in this repository:
-
-  - View on GitHub: [Open Resume PDF](./Marcos%20Dias%20Java%20Resume-1.pdf)
-  - Direct raw file: [Download PDF](https://raw.githubusercontent.com/203marcos/203marcos/main/Marcos%20Dias%20Java%20Resume-1.pdf)
-
-  > Note: GitHub will preview the PDF when you click "Open Resume PDF". Embedding PDF inline in a README may be restricted by GitHub's content sanitization, so use the links above to view or download.
-
-  ## Hobbies
-
-  - Watching anime and playing video games.
-  - Exploring new technologies and frameworks.
-  - Reading about software engineering and best practices.
-
-  <div align="center">
-    <img src="https://media.tenor.com/ATGRQ30vEiQAAAAi/yuzuko-yuyushiki.gif" width="150">
-    <img src="https://media1.tenor.com/m/jbCwMI1YjTwAAAAd/doraemon-for-loop.gif" width="200">
-    <img src="https://media1.tenor.com/m/3yNUtUfO_mgAAAAC/cats-anime.gif" width="200">
-    <img src="https://media1.tenor.com/m/SEVhQzGoyksAAAAd/fbi-anime.gif" width="200" height="100">
-  </div>
+<div align="center">
+  <img src="https://media.tenor.com/ATGRQ30vEiQAAAAi/yuzuko-yuyushiki.gif" width="150">
+  <img src="https://media1.tenor.com/m/jbCwMI1YjTwAAAAd/doraemon-for-loop.gif" width="200">
+  <img src="https://media1.tenor.com/m/3yNUtUfO_mgAAAAC/cats-anime.gif" width="200">
+  <img src="https://media1.tenor.com/m/SEVhQzGoyksAAAAd/fbi-anime.gif" width="200" height="100">
+</div>
